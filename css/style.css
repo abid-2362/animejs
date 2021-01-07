@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+}
+
+.box {
+  background-color: #ff0000;
+  height: 30px;
+  width: 30px;
+  margin-bottom: 3px;
+}
